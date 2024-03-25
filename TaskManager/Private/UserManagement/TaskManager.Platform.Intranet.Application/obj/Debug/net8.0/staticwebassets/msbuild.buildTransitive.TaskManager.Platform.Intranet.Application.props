@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TaskManager.Platform.Intranet.Application.props" />
+</Project>

@@ -1,0 +1,4 @@
+name: tasky
+services:
+- name: mssql
+  include: tye-mssql.yaml

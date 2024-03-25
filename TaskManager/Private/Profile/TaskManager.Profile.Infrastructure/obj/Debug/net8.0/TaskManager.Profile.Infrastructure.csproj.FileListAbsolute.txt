@@ -1,0 +1,14 @@
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.AssemblyInfo.cs
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\bin\Debug\net8.0\TaskManager.Profile.Infrastructure.deps.json
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\bin\Debug\net8.0\TaskManager.Profile.Infrastructure.runtimeconfig.json
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\bin\Debug\net8.0\TaskManager.Profile.Infrastructure.dll
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\bin\Debug\net8.0\TaskManager.Profile.Infrastructure.pdb
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.dll
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\refint\TaskManager.Profile.Infrastructure.dll
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.pdb
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\TaskManager.Profile.Infrastructure.genruntimeconfig.cache
+C:\Users\ZG824LC\source\repos\capstone2\TaskManager\Private\Profile\TaskManager.Profile.Infrastructure\obj\Debug\net8.0\ref\TaskManager.Profile.Infrastructure.dll

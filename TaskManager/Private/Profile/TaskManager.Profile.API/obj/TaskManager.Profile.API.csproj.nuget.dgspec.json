@@ -1,0 +1,471 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.API\\TaskManager.Profile.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj",
+        "projectName": "TaskManager.Common.Application",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj",
+        "projectName": "TaskManager.Common.Dto",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\TaskManager.Profile.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\TaskManager.Profile.Domain.csproj",
+        "projectName": "TaskManager.Profile.Domain",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\TaskManager.Profile.Domain.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.API\\TaskManager.Profile.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.API\\TaskManager.Profile.API.csproj",
+        "projectName": "TaskManager.Profile.API",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.API\\TaskManager.Profile.API.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Application\\TaskManager.Common.Application.csproj"
+              },
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj"
+              },
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\TaskManager.Profile.Application.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\TaskManager.Profile.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj",
+        "projectName": "TaskManager.Profile.Infrastructure",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\TaskManager.Profile.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\TaskManager.Profile.Application.csproj",
+        "projectName": "TaskManager.Profile.Application",
+        "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\TaskManager.Profile.Application.csproj",
+        "packagesPath": "C:\\Users\\ZG824LC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Intranet\\TaskManager.Profile.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZG824LC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\TaskManager.Profile.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Platform.Domain\\TaskManager.Profile.Domain.csproj"
+              },
+              "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\Profile\\TaskManager.Profile.Infrastructure\\TaskManager.Profile.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

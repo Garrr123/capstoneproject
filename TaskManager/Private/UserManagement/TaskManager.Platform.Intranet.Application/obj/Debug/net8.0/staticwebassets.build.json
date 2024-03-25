@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m74sm3em4CvlZkSrb2y0Xre/yysfhgjG7ygRBFVl5EU=",
+  "Source": "TaskManager.Platform.Intranet.Application",
+  "BasePath": "_content/TaskManager.Platform.Intranet.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

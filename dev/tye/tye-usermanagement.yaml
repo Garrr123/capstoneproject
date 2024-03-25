@@ -1,0 +1,6 @@
+name: tasky
+services:
+- name: core
+  include: tye-base.yaml
+- name: intranet
+  include: tye-intranet.yaml

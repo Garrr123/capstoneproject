@@ -1,0 +1,12 @@
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.csproj.AssemblyReference.cache
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.AssemblyInfoInputs.cache
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.AssemblyInfo.cs
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\bin\Debug\net8.0\TaskManager.Common.Dto.deps.json
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\bin\Debug\net8.0\TaskManager.Common.Dto.dll
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\bin\Debug\net8.0\TaskManager.Common.Dto.pdb
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.dll
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\refint\TaskManager.Common.Dto.dll
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\TaskManager.Common.Dto.pdb
+C:\Users\ZG824LC\source\repos\capstone2\Common\TaskManager.Common.Dto\obj\Debug\net8.0\ref\TaskManager.Common.Dto.dll

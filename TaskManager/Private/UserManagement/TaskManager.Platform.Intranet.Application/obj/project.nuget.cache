@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mUaS7ZA6xDG/97hukkAh9t4TT9QH3VLt5CFFiN505fCeDm1EVqanbKW+w3zSDJnwFsdKFVr8Xq61Fk2EZmTeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\TaskManager\\Private\\UserManagement\\TaskManager.Platform.Intranet.Application\\TaskManager.Platform.Intranet.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZG824LC\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.2\\microsoft.aspnetcore.authentication.google.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

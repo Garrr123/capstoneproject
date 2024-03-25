@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ig2rBWhQQrSBgBSp7SLyVJol2P/4c2wGIQ03SD/xZlrJp3cRYnMgn4WENZY+rqelByXmkim1Zz02GAlhYpnBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZG824LC\\source\\repos\\capstone2\\Common\\TaskManager.Common.Dto\\TaskManager.Common.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZG824LC\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ZG824LC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ZG824LC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

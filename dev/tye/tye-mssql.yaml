@@ -1,0 +1,18 @@
+name: tasky
+services:
+- name: mssql
+  image: mcr.microsoft.com/mssql/server
+  env:
+    - name: "MSSQL_SA_PASSWORD"
+      value: "${env:DELUX_MSSQL_SA_PASSWORD}"
+    - name: ACCEPT_EULA
+      value: "Y"
+    - name: "MSSQL_TCP_PORT"
+      value: "1433"
+  volumes:
+    - source: ../mssql/data
+      target: /var/opt/mssql/data
+  bindings:
+    - name: tcp
+      port: 2433
+      containerPort: 1433

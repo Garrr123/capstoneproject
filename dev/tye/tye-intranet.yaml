@@ -1,0 +1,22 @@
+name: tasky
+services:
+- name: usermanagement
+  project: ../../TaskManager/Private/UserManagement/TaskManager.Platform.Intranet.API/TaskManager.Platform.Intranet.API.csproj
+  bindings:
+  - port: 5014
+    protocol: https
+  env:
+  - name: NAMESPACE
+    value: intranet-tasky
+  - name: CONNECTIONSTRINGS__DEFAULT
+    value: "Server=SG3470362W1\\SQLEXPRESS2014;Database=User;Integrated Security=True;TrustServerCertificate=True;"
+- name: profile
+  project: ../../TaskManager/Private/Profile/TaskManager.Profile.API/TaskManager.Profile.API.csproj
+  bindings:
+  - port: 2055
+    protocol: https
+  env:
+  - name: NAMESPACE
+    value: intranet-tasky
+  - name: CONNECTIONSTRINGS__DEFAULT
+    value: "Server=SG3470362W1\\SQLEXPRESS2014;Database=Profile;Integrated Security=True;TrustServerCertificate=True;"
